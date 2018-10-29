@@ -7,7 +7,7 @@ PRODUCT_RELEASE_NAME := PixelV2
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/lenovo/PixelV2/device_PixelV2.mk)
+$(call inherit-product, device/lava/PixelV2/device_PixelV2.mk)
 
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 720
