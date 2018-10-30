@@ -78,7 +78,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 TARGET_KMODULES := true
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := lava PixelV2a40,PixelV2,PixelV2a40
+TARGET_OTA_ASSERT_DEVICE := lava PixelV2,PixelV2
 
 # Disable memcpy opt (for audio libraries)
 TARGET_CPU_MEMCPY_OPT_DISABLE := true
