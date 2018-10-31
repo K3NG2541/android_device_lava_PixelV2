@@ -13,10 +13,10 @@ TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 720
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := Pixel V2
-PRODUCT_NAME := lineage_Pixel V2
+PRODUCT_DEVICE := PixelV2
+PRODUCT_NAME := lineage_PixelV2
 PRODUCT_BRAND := lava
-PRODUCT_MODEL := Lava Pixel V2
+PRODUCT_MODEL := Lava PixelV2
 PRODUCT_MANUFACTURER := lava
 
 PRODUCT_GMS_CLIENTID_BASE := android-lava
